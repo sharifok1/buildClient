@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.505b1e50.css",
-    "main.js": "/static/js/main.72e4f17a.js",
+    "main.css": "/static/css/main.7f50c93b.css",
+    "main.js": "/static/js/main.1238d9a8.js",
     "static/js/787.1a0d5b53.chunk.js": "/static/js/787.1a0d5b53.chunk.js",
     "static/media/sizelist.jpg": "/static/media/sizelist.3a65ec2d6ff31ac6dfdb.jpg",
     "static/media/blankBasket.jpg": "/static/media/blankBasket.45b3857ecaec82329270.jpg",
@@ -9,12 +9,12 @@
     "static/media/femmlogo4.png": "/static/media/femmlogo4.3424526cdf68ba47cc7b.png",
     "index.html": "/index.html",
     "static/media/Ripple-1s-200px.svg": "/static/media/Ripple-1s-200px.86c721f111148002fe7ea9cf6bb17284.svg",
-    "main.505b1e50.css.map": "/static/css/main.505b1e50.css.map",
-    "main.72e4f17a.js.map": "/static/js/main.72e4f17a.js.map",
+    "main.7f50c93b.css.map": "/static/css/main.7f50c93b.css.map",
+    "main.1238d9a8.js.map": "/static/js/main.1238d9a8.js.map",
     "787.1a0d5b53.chunk.js.map": "/static/js/787.1a0d5b53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.505b1e50.css",
-    "static/js/main.72e4f17a.js"
+    "static/css/main.7f50c93b.css",
+    "static/js/main.1238d9a8.js"
   ]
 }
