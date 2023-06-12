@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bdfc3e4.css",
-    "main.js": "/static/js/main.8be0db51.js",
+    "main.css": "/static/css/main.8ad02180.css",
+    "main.js": "/static/js/main.c18b610f.js",
     "static/js/787.1a0d5b53.chunk.js": "/static/js/787.1a0d5b53.chunk.js",
     "static/media/sizelist.jpg": "/static/media/sizelist.3a65ec2d6ff31ac6dfdb.jpg",
     "static/media/blankBasket.jpg": "/static/media/blankBasket.45b3857ecaec82329270.jpg",
     "static/media/bra_Size_banner.jpg": "/static/media/bra_Size_banner.8c35aae2ff8212aed761.jpg",
     "static/media/femmlogo4.png": "/static/media/femmlogo4.3424526cdf68ba47cc7b.png",
+    "static/media/femmewearbd_blog.jpg": "/static/media/femmewearbd_blog.d24a5898e5013b64699e.jpg",
     "index.html": "/index.html",
     "static/media/Ripple-1s-200px.svg": "/static/media/Ripple-1s-200px.86c721f111148002fe7ea9cf6bb17284.svg",
-    "main.1bdfc3e4.css.map": "/static/css/main.1bdfc3e4.css.map",
-    "main.8be0db51.js.map": "/static/js/main.8be0db51.js.map",
+    "main.8ad02180.css.map": "/static/css/main.8ad02180.css.map",
+    "main.c18b610f.js.map": "/static/js/main.c18b610f.js.map",
     "787.1a0d5b53.chunk.js.map": "/static/js/787.1a0d5b53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bdfc3e4.css",
-    "static/js/main.8be0db51.js"
+    "static/css/main.8ad02180.css",
+    "static/js/main.c18b610f.js"
   ]
 }
