@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fdb5bd6.css",
-    "main.js": "/static/js/main.a8b90e59.js",
+    "main.css": "/static/css/main.2bb80b68.css",
+    "main.js": "/static/js/main.f51afc98.js",
     "static/js/787.9ab86e43.chunk.js": "/static/js/787.9ab86e43.chunk.js",
     "static/media/sizelist.jpg": "/static/media/sizelist.3a65ec2d6ff31ac6dfdb.jpg",
     "static/media/blankBasket.jpg": "/static/media/blankBasket.45b3857ecaec82329270.jpg",
@@ -10,12 +10,12 @@
     "static/media/femmewearbd_blog.jpg": "/static/media/femmewearbd_blog.d24a5898e5013b64699e.jpg",
     "index.html": "/index.html",
     "static/media/Ripple-1s-200px.svg": "/static/media/Ripple-1s-200px.86c721f111148002fe7ea9cf6bb17284.svg",
-    "main.2fdb5bd6.css.map": "/static/css/main.2fdb5bd6.css.map",
-    "main.a8b90e59.js.map": "/static/js/main.a8b90e59.js.map",
+    "main.2bb80b68.css.map": "/static/css/main.2bb80b68.css.map",
+    "main.f51afc98.js.map": "/static/js/main.f51afc98.js.map",
     "787.9ab86e43.chunk.js.map": "/static/js/787.9ab86e43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fdb5bd6.css",
-    "static/js/main.a8b90e59.js"
+    "static/css/main.2bb80b68.css",
+    "static/js/main.f51afc98.js"
   ]
 }
